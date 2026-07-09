@@ -1,4 +1,4 @@
-<img src="assets/banner.gif" width="500">
+<img src="assets/banner.gif" width="500" style="border-radius: 3px;">
 
 ---
 
